@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Awardxz/waledFPS/main/waled.ico?token=GHSAT0AAAAAACMF2E7TWT3GAWEVLHUAEAMIZR6WXRA" width="190">
-  <h1>waledFPS</h1>
+  <h1>waledFPS - Roblox FPS Unlocker</h1>
 </div>
 
 
@@ -10,7 +10,7 @@ This is a repository for the waledFPS application built using ElectronJS.
 
 ## Overview
 
-waledFPS is an ElectronJS application designed to provide a simple user interface for a  FPS Unlocker. It is really unoptimized, resulting in a large file size, but it works at least as a experiment. Despite its inefficiencies, it offers a one-time installation process and is guaranteed to be virus-free.
+waledFPS is an ElectronJS application designed to provide a simple user interface for a Roblox FPS Unlocker. It is really unoptimized, resulting in a large file size, but it works at least as a experiment. Despite its inefficiencies, it offers a one-time installation process and is guaranteed to be virus-free.
 
 ## Screenshots
 
