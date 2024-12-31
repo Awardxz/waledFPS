@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Awardxz/waledFPS/main/waled.ico?token=GHSAT0AAAAAACMF2E7TWT3GAWEVLHUAEAMIZR6WXRA" width="190">
+  <img src="https://raw.githubusercontent.com/Awardxz/waledFPS/refs/heads/main/waled.ico" width="190">
   <h1>waledFPS - Roblox FPS Unlocker</h1>
 </div>
 
